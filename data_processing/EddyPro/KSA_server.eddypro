@@ -1,8 +1,8 @@
 ;EDDYPRO_PROCESSING
 [Project]
 creation_date=2025-06-17T16:34:30
-last_change_date=2025-07-23T18:45:41
-file_name=C:/Users/emily/Documents/Grad_School/Research/Agrivoltaics/Data_processing/EddyPro/KSA_server.eddypro
+last_change_date=2026-04-20T09:22:40
+file_name=C:/Users/emily/Documents/Grad_School/Research/Solar/data_processing/EddyPro/KSA_server.eddypro
 run_mode=0
 run_fcc=0
 project_title=KSA
@@ -12,7 +12,7 @@ project_id=KSA
 file_type=1
 file_prototype=agrivoltaics2_ts_data_yyyy_mm_dd_HHMM.dat
 use_pfile=1
-proj_file=C:/Users/emily/Documents/Grad_School/Research/Agrivoltaics/Data_processing/EddyPro/AV_array_metadata.metadata
+proj_file=
 use_dyn_md_file=0
 dyn_metadata_file=
 binary_hnlines=-1
@@ -177,7 +177,7 @@ flow_distortion=0
 rot_meth=3
 detrend_meth=0
 timeconst=250.0
-tlag_meth=0
+tlag_meth=1
 tap_win=3
 nbins=50
 avrg_len=30

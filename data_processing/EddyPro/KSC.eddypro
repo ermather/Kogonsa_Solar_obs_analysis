@@ -1,8 +1,8 @@
 ;EDDYPRO_PROCESSING
 [Project]
 creation_date=2025-06-17T16:34:30
-last_change_date=2025-07-18T13:26:52
-file_name=C:/Users/emily/Documents/Grad_School/Research/Agrivoltaics/Data_processing/EddyPro/KSC.eddypro
+last_change_date=2026-04-20T09:23:28
+file_name=C:/Users/emily/Documents/Grad_School/Research/Solar/data_processing/EddyPro/KSC.eddypro
 run_mode=0
 run_fcc=0
 project_title=KSC
@@ -12,7 +12,7 @@ project_id=KSC
 file_type=1
 file_prototype=agrovoltaics1_ts_data_yyyy_mm_dd_HHMM.dat
 use_pfile=1
-proj_file=C:/Users/emily/Documents/Grad_School/Research/Agrivoltaics/Data_processing/EddyPro/AV_control_metadata.metadata
+proj_file=
 use_dyn_md_file=0
 dyn_metadata_file=
 binary_hnlines=-1
@@ -50,7 +50,7 @@ lf_meth=1
 wpl_meth=1
 foot_meth=1
 tob1_format=0
-out_path=D:/EddyPro_data/Output/AdvSet_PlanarFit_Not_w_bias
+out_path=
 fix_out_format=1
 err_label=-9999.0
 qc_meth=1
@@ -63,7 +63,7 @@ out_mean_cosp=1
 out_biomet=1
 bin_sp_avail=0
 full_sp_avail=0
-files_found=2108
+files_found=0
 out_mean_spec=1
 hf_correct_ghg_ba=1
 hf_correct_ghg_zoh=1
@@ -130,7 +130,7 @@ sa_gas4_g1_start=1
 sa_gas4_g1_stop=12
 
 [RawProcess_General]
-data_path=D:/EddyPro_data/Input/KSC
+data_path=
 recurse=1
 use_geo_north=0
 mag_dec=0
